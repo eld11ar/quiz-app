@@ -43,7 +43,7 @@ A simple game consisting of 10 questions (any questions) with three difficulty l
 1. To run a project locally, first clone the repo
 
    ```sh
-   git clone https://github.com/sapar6ek0v/quiz-app.git
+   git clone https://github.com/eld11ar/quiz-app.git
    ```
 
 2. Go to the project directory
@@ -66,4 +66,4 @@ A simple game consisting of 10 questions (any questions) with three difficulty l
 
 ## Feedback
 
-If you have any feedback, please reach out to me at eldiiarsparbekov03@gmail.com
+If you have any feedback, please reach out to me at eldiiar.saparbekov.dev@gmail.com
